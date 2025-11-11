@@ -1,6 +1,6 @@
 .data
 msg1: .asciiz "enter your number 1:"
-msg2: .asciiz "enter your number 2"
+msg2: .asciiz "enter your number 2:"
 msg3: .asciiz "enter your number 3:"
 output: .asciiz "sum:"
 .text
